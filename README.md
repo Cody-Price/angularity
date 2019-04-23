@@ -8,14 +8,14 @@ Angularity is my first delve into the Angular framework in order to expand the h
 
 There is no Demo available yet for this project.
 
-### Prerequisites
+## Prerequisites
 
 This application asumes that you have the following installed on your machine:
 
 - [node](https://www.npmjs.com/get-npm)
 - [npm](https://www.npmjs.com/get-npm)
 
-### Setup
+## Setup
 
 1. Fork this repository by clicking on the "Fork" button on the top-right of this page.
 
@@ -46,7 +46,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/)
 
-### To run as Developer
+## To run as Developer
 
 1. Navigate into the angularity directory and enter the following command:
 `npm start`
